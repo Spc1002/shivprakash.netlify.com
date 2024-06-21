@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(156, 167, 138);
+    /* margin: 0; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+img{
+    border-radius: 66%;
+    align-self: center;
+    /* box-shadow: box-shadow: azure 3px 7px 6px 0px;;
+     */
+     box-shadow: rgb(27, 42, 27) 3px 7px 6px 0px;
+}
+h3{
+    font-family: cursive;
+}
